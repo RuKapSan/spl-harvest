@@ -1,0 +1,5 @@
+hive-node: https://api.hive.blog
+accounts:
+  - name: name
+    active-key: key
+    action: transfer
